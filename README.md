@@ -1,3 +1,4 @@
 # Tailwind_projects-and-notes
-
-# frist do setup and start a project razorpay clone
+<hr>
+<h1>day1 
+# first do setup and start a project razorpay clone
